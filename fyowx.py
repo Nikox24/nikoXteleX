@@ -37,7 +37,7 @@ def login_system():
     print("\n🔐 LOGIN REQUIRED")
     username = input("👤 Username: ").strip()
     password = input("🔑 Password: ").strip()
-    if username == "yujin" and password == "yujin":
+    if username == "nikox" and password == "nikox":
         print("✅ Login successful.\n")
     else:
         print("❌ Incorrect credentials.")
